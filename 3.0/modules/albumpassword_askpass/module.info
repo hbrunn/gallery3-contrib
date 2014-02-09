@@ -1,0 +1,7 @@
+name = "Ask for album password"
+description = "Asks a password at once for non-logged-in visitors"
+version = 1
+author_name = "Holger Brunn"
+author_url = ""
+info_url = ""
+discuss_url = ""

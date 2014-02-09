@@ -1,0 +1,7 @@
+name = "Album expiry"
+description = "Set an expiry date for albums"
+version = 1
+author_name = "Holger Brunn"
+author_url = ""
+info_url = ""
+discuss_url = ""
